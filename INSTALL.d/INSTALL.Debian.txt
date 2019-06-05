@@ -57,6 +57,11 @@ apt install -y            \
   libtest-nowarnings-perl  \
   libtest-deep-perl        \
   libtest-warn-perl        \
+  libpar-packer-perl       \
+  libtest-fatal-perl       \
+  libtest-mock-guard-perl  \
+  libtest-requires-perl    \
+  libdist-checkconflicts-perl \
   make                     \
   cpanminus
 
